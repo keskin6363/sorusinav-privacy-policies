@@ -21,9 +21,8 @@ However, the app does use third-party services that may collect information used
 Link to privacy policy of third-party service providers used by the app:
 
 * [Google Play Services](https://www.google.com/policies/privacy/)
-* [AdMob](https://support.google.com/admob/answer/6128543?hl=en) (Eğer reklam varsa bu kalsın, yoksa silin)
-* [Google Analytics for Firebase](https://firebase.google.com/policies/analytics) (Eğer Firebase kullanıyorsanız kalsın, yoksa silin)
-* [Firebase Crashlytics](https://firebase.google.com/support/privacy/) (Hata takibi yapıyorsanız kalsın, yoksa silin)
+* [Google Analytics for Firebase](https://firebase.google.com/policies/analytics) 
+* [Firebase Crashlytics](https://firebase.google.com/support/privacy/) 
 
 ### Log Data
 
